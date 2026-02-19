@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/claculator_using_react/static/css/main.f855e6bc.css",
+    "main.js": "/claculator_using_react/static/js/main.a7002f45.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/claculator_using_react/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/claculator_using_react/index.html",
+    "main.f855e6bc.css.map": "/claculator_using_react/static/css/main.f855e6bc.css.map",
+    "main.a7002f45.js.map": "/claculator_using_react/static/js/main.a7002f45.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/claculator_using_react/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a7002f45.js"
+  ]
+}
